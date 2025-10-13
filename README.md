@@ -25,8 +25,6 @@ Testing the webserver.
 # OUTPUT:
 
 
-![alt text](<Screenshot 2025-09-19 161548.png>)
-
 ![alt text](<Screenshot 2025-09-19 161747.png>)
 
 
